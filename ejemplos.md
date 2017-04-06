@@ -1,0 +1,1 @@
+http://localhost:8000/getData/?acciones=[CECO2,AGRO]&porcentajes=[1,0]
